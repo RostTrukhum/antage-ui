@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/antage-ui/static/css/main.d6f99dc2.css",
+    "main.js": "/antage-ui/static/js/main.8d53613c.js",
+    "static/media/main-bg.jpg": "/antage-ui/static/media/main-bg.c82984a6ab76923add64.jpg",
+    "static/media/logo.svg": "/antage-ui/static/media/logo.3f0c32e25750f73bd3eff6633e007d0b.svg",
+    "index.html": "/antage-ui/index.html",
+    "static/media/heart.svg": "/antage-ui/static/media/heart.5d6910dac82f15f698d511da086503e6.svg",
+    "main.d6f99dc2.css.map": "/antage-ui/static/css/main.d6f99dc2.css.map",
+    "main.8d53613c.js.map": "/antage-ui/static/js/main.8d53613c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f99dc2.css",
+    "static/js/main.8d53613c.js"
+  ]
+}
