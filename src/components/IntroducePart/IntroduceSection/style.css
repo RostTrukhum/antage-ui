@@ -1,0 +1,14 @@
+.introduce-wrapper {
+	padding-left: 68px;
+	padding-right: 68px;
+	background-color: #141414;
+	min-height: 727px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.main-bg-img {
+	position: absolute;
+	top: 68px
+}

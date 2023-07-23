@@ -1,0 +1,17 @@
+.introduce-footer-links-wrapper {
+	background-color: #EBEBEB;
+	width: 100%;
+	height: 68px;
+	display: flex;
+	align-items: center;
+	gap: 37px;
+	padding-left: 10px;
+}
+
+.introduce-footer-link {
+	color: #000000;
+	font-size: 12px;
+	font-weight: 400;
+	text-transform: uppercase;
+	text-decoration: none;
+}

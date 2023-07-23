@@ -1,0 +1,10 @@
+.general-button {
+	width: 216px;
+	padding-top: 26px;
+	padding-bottom: 26px;
+	background-color: #99823D;
+	text-align: center;
+	color: #FFFFFF;
+	border: 0;
+	cursor: pointer;
+}

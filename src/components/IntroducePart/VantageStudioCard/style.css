@@ -1,0 +1,44 @@
+.vantage-studio-wrapper {
+	background-color: #99823D;
+	min-width: 489px;
+	height: 329px;
+	z-index: 1;
+	position: relative;
+}
+
+.vantage-studio {
+	position: absolute;
+	bottom: 135px;
+	right: 68px;
+	min-width: 584px;
+	padding: 68px;
+	background-color: #FFFFFF;
+}
+
+.vantage-studio-subtitle {
+	font-weight: 400;
+	font-size: 11px;
+	color: #99823D;
+	text-transform: uppercase;
+	margin-bottom: 2px;
+}
+
+.vantage-studio-title {
+	font-size: 67px;
+	font-weight: 400;
+	font-family: 'Teko';
+	line-height: 67px;
+	margin-bottom: 32px;
+}
+
+.vantage-studio-description {
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 25.5px;
+	margin-bottom: 15px;
+}
+
+.vantage-studio-buttons-wrapper {
+	display: flex;
+	justify-content: space-between;
+}
